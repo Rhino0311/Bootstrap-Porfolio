@@ -1,0 +1,255 @@
+html,
+body {
+height: 100%;
+background-color: #F5F5F5;
+}
+
+/* Wrapper to push the footer to end of page */
+
+#wrap {
+	min-height: 100%;
+	height: auto;
+	margin: 0 auto -60px;
+	padding: 0 0 60px;
+}
+
+a {
+	color: #5E7F7E;;
+}
+
+h1{
+
+	font-size: 30px;
+	background-color: #4aaaa5;
+	color: #fff;
+	padding-top: 5px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	height: 40px;
+	width: 300px;
+	text-align: center;
+	position: relative;
+	left: 80px;
+	top: 30px;
+
+}
+
+.about {
+	font-size: 30px;
+	padding: 15px 0px 0px 100px;
+	border-style: solid;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;font-size: 30px;
+}
+.program {
+	float: right;
+}
+
+.section {
+	padding: 0px 0px 0px 100px;
+}
+
+.connection {
+	padding: 0px 0px 0px 150px;
+}
+
+
+.navbar-brand {
+font-family: 'Vast Shadow', cursive;
+font-size: 54px;
+}
+
+h2{
+	font-size: 30px;
+	padding: 15px 0px 0px 0px;
+	border-style: solid;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.titleNombre{
+	text-align: center;
+}
+
+#footer {
+	height: 60px;
+	background-color: #666666;
+	text-align: center;
+	margin-top: 20px;
+	border-top-style: solid;
+	border-width: 8px;
+	border-color: #4aaaa5;
+	font-size: 12px;
+
+}
+
+
+
+#footer p{
+	margin-top: 20px;
+	color: #fff;
+}
+
+img.contact-buttons {
+	margin-bottom: 5px;
+}
+
+.programTile img{
+
+	width: 100%;
+}
+
+img #ThePic {
+	width: 50%;
+	height: auto;
+}
+
+.contact-buttons {
+	width: 35px;
+	height: auto;
+}
+
+
+#contact-info {
+	margin-top: 60px;
+}
+
+
+
+/*Port page */
+
+
+
+.tileNombre {
+	background-color: #4aaaa5;
+	color: #fff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	position: relative;
+	bottom: 35px;
+	width: 150px;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+
+}
+
+.program {
+	float: left;
+	margin: 20px 200px 20px 30px;
+	width: 100px;
+	height: 160px;
+
+
+}
+
+.program:hover .tileNombre {
+	font-size: 24px;
+	background-color: #4d1979;
+	border: solid;
+	border-color: black;
+	width: 150px;
+}
+
+
+input[type="text"],
+textarea {
+	width: 70%
+	padding: 0;
+	border: 1px solid #ccc;
+	color: #5E7F7E;
+}
+
+
+
+@media screen and (max-width: 980px) {
+
+.contact-buttons {
+	width: 65px;
+	height: 65px;
+}
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+.contact-buttons {
+	width: 65px;
+	height: 65px;
+}
+
+img#ThePic{
+	width: 300px;
+	height: auto;
+}
+
+}
+
+
+@media screen and (max-width: 640px) {
+
+.contact-buttons {
+	width: 65px;
+	height: 65px;
+}
+
+img#ThePic{
+	width: 300px;
+	height: auto;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
